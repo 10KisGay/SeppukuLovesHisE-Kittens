@@ -1,0 +1,5 @@
+game.Players.LocalPlayer.Chatted:Connect(function(msg)
+    if msg == ";hi" then 
+    game.Players.LocalPlayer:Kick("Fucked In The Ass By Seppuku#6185")
+end
+end)
